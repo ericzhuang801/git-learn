@@ -1,0 +1,3 @@
+git is a distributed control system
+it is very important for software.
+every programmer must learn it.
